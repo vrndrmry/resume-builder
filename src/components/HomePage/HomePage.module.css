@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+  }
+  
+  .Appheader {
+    background-color: #18243c;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    color: white;
+    margin-bottom: 50px;
+  }
+  
+
+  .ResumeBuilderButton {
+    margin: 0px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid rgb(193, 93, 93);
+    color: antiquewhite;
+    font-weight: bold;
+    background-color: #18243c;
+  }
+  
+  .ResumeBuilderButton:hover {
+    background-color: rgb(193, 93, 93);
+  }
+  
+  
